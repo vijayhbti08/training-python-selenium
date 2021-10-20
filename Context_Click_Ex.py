@@ -14,6 +14,7 @@ action = ActionChains(driver) #keyboard and mouse operation
 element = driver.find_element_by_id("hot-spot")
 action.context_click(element).perform()
 wait.until(EC.alert_is_present())
+sleep(4)
 alert = driver.switch_to.alert
 alert.accept()
 sleep(6)
