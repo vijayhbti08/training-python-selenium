@@ -1,1 +1,2 @@
-# training-paython-selenium
+# training-Python-selenium
+Selenium python concept
