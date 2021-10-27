@@ -1,0 +1,56 @@
+Selenium Python package setup with different browser execution
+  1.How to invoke chrome browser ad load the website to automate
+  2.Basic WebDriver methods
+  3.Run tests in other browsers
+
+Different Types of locator in Webdriver 
+  1.inspect HTML to identify attributes of element
+  2.Introduction with ID and name locator
+  3.Introduction with Xpath and CSS
+  4.Introduction with linktext and tagname
+  
+Python API->Techniques to automate Web elements
+   1.Web applications to practise Selenium Automation
+   2.Dropdown using Select class of selenium and without select
+   3.Validation assertions
+   4.Handling checkbox
+   5.Handling radiobutton
+   6.Java Script popup
+
+Synchronization(Explicit and Implicit Waits)
+   1.Implicit Wait in selenium
+   2.Explicit Wait
+   
+
+Handling Advanced User Interactions and Child windows,Frame
+  1.Handling child windows/Tabs
+  2.Frame techniquoes to handle with Selenium
+  3.Advance interaction with browser use of Actions class
+
+Java Script executor,ChromeOptions and Page objects
+   1.Java Script executor
+   2.Chrome Options 
+   3.Page Object design pattern
+
+Pytest Framework
+  1.Pytest and its advantages
+  2.Running pytests with Terminal with different command flags
+  3.How to run selected Pytests from set of Tests
+  4.Groups tests with pytest marks to run selected groups
+  5.Fixtures and importance of this
+  6.Conftest file and use of this
+  7.Data driver Fixtures to load data into tests
+  8.Parametrizing test with mutiple data sets using fixtures
+  9.Generate HTML report
+
+Logging and generating HTML report
+  1.Introduction of Logging in Python
+  2.Filehandler in Logging tests
+  3.Builiding reusalbility Utility for logging to inject into framework
+  4.Integration of Pytest logs into html reporting
+
+End to End framework developement
+
+Grid and desired-capabilities
+
+    
